@@ -25,7 +25,7 @@ Evaluated on the UCI Heart Disease dataset, **TransGAN-DX** achieved:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-© ALI BAYANI
+© ALI BAYANI 2025
 
 ## Repository Structure
 ```plaintext
