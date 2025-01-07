@@ -21,6 +21,12 @@ Evaluated on the UCI Heart Disease dataset, **TransGAN-DX** achieved:
 - **Evaluation Tools**: Provides accuracy, F1-score, ROC curve, PR curve, and confusion matrix.
 - **Visualization**: Includes correlation heatmaps, SHAP analysis, and loss plots.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+© ALI BAYANI
+
 ## Repository Structure
 ```plaintext
 project/
