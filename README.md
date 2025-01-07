@@ -9,7 +9,7 @@ The framework:
 - Incorporates correlation and feature importance analyses for interpretability, aiding clinical decision-making.
 - Addresses model overconfidence by calibrating predictions using calibration curves and expected calibration error (ECE).
 
-Evaluated on the UCI Heart Disease dataset, **TransGAN-DX** achieved:
+Evaluated on the [Heart Disease dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data), **TransGAN-DX** achieved:
 - **Accuracy:** 89%
 - **F1-Score:** 86%
 - **ROC-AUC Score:** 88%
