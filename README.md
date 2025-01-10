@@ -1,7 +1,9 @@
 # TransGAN-DX: A Hybrid Transformer-GAN Approach for Enhanced Cardiovascular Disease Diagnosis
 
 ## Abstract
-Cardiovascular disease remains one of the leading causes of mortality worldwide, highlighting the urgent need for more accurate and reliable diagnostic tools. **TransGAN-DX** is a novel deep learning framework that integrates Generative Adversarial Networks (GANs) and Transformer-based architectures to enhance cardiovascular disease detection.
+Cardiovascular disease remains one of the leading causes of mortality worldwide, highlighting the urgent need for more accurate and reliable diagnostic tools. **TransGAN-DX** is a novel deep learning framework integrating Generative Adversarial Networks (GANs) and Transformer-based architectures to enhance cardiovascular disease detection.
+
+Link to the published article for this project: https://www.americanhhm.com/researchinsights/transgan-dx-a-hybrid-transformer-gan-approach-for-enhanced-cardiovascular-disease-diagnosis
 
 The framework:
 - Leverages GANs to generate synthetic data, improving training diversity and addressing data imbalance challenges.
